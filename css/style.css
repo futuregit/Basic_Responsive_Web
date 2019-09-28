@@ -94,6 +94,8 @@ header a:hover{
     font-size: 20px;
 }
 
+/* NEwsletter */
+
 #newsletter {
     padding: 15px;
     color: #ffffff;
@@ -113,4 +115,20 @@ header a:hover{
     padding: 4px;
     height: 38px;
     width: 250px;
+}
+
+/* Boxes */
+#boxes {
+    margin-top: 20px;
+}
+
+#boxes .box {
+    float: left;
+    text-align: center;
+    width: 30%;
+    padding: 10px;
+}
+
+#boxes .box img{
+    width: 90px;
 }
