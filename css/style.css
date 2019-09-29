@@ -84,7 +84,7 @@ header a:hover{
     font-weight: bold;
 }
 
-/*Showcase */
+/* Showcase */
 #showcase {
     min-height: 400px;
     background: url('../img/showcase.jpg') no-repeat 0 -400px;
@@ -141,21 +141,31 @@ header a:hover{
     width: 90px;
 }
 
-/*Sidebar*/
+/* Sidebar */
 aside#sidebar {
     float: right;
     width: 30%;
     margin-top: 10px;
 }
 
-/*Main-col*/
+/* Main-col */
 article#main-col {
     float: left;
     width: 65%;
 
 }
 
-footer{
+/* Services */
+
+ul#services li {
+    list-style: none;
+    padding: 20px;
+    border: #cccccc solid 1px;
+    margin-bottom: 5px;
+    background: #cecece;
+}
+
+footer {
     padding: 20px;
     margin-top: 20px;
     color: #ffffff;
